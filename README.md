@@ -1,5 +1,5 @@
 # python-projects
-### must have python 3 installed and pip
+### must have python 3 installed
 A couple of terminal programs written in python
 
 # How to start
